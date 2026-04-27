@@ -164,12 +164,12 @@ function App() {
                 <span></span>
               </div>
 
-              <aside className="hero-panel" aria-label="Brand direction">
+              <aside className="hero-panel" aria-label="Montessori highlights">
                 <span className="panel-mark"></span>
-                <h2>Initial Branding Direction</h2>
+                <h2>Prepared Montessori Environment</h2>
                 <p className="panel-text">
-                  A clean, professional identity inspired by natural materials,
-                  thoughtful rhythm, and confidence without noise.
+                  Beautiful, orderly classrooms invite independence, concentration,
+                  and joyful discovery through purposeful daily work.
                 </p>
                 <div className="panel-divider" aria-hidden="true">
                   <span></span>
@@ -177,8 +177,8 @@ function App() {
                 <div className="logo-concept">
                   <div className="logo-chip">SP</div>
                   <div>
-                    <p className="label">Logo concept</p>
-                    <p>Monogram leaf mark + serif wordmark for trust and warmth.</p>
+                    <p className="label">Montessori focus</p>
+                    <p>Hands-on materials, calm routines, and guides who follow the child.</p>
                   </div>
                 </div>
 
